@@ -3,7 +3,7 @@ package com.Practice_9_OOP;
 public class Main {
 
     public static void main(String[] args) {
-        class D{
+      /*  class D{
 
 
             public int a;
@@ -22,6 +22,35 @@ public class Main {
                         '}';
             }
         }
+        D d =new D(2,3);
+        System.out.println(d);*/
+     /* A a = new A(1);
+      a.m();
+      A.C b=new A.C(2);
+      b.m();
+      A.B c=a. new B(2);
+      c.m();*/
+
+     /* Bank a1= new Bank("Private");
+      Bank.Account account=a1.new Account(123,100);
+      account.show();
+      Bank a2= new Bank("PUMB");
+      Bank.Account account1=a2.new Account(124,150);
+      account1.show();*/
+
+      E e=new E();
+
+      e.m();
+      new E() {
+          @Override
+          void m() {
+              System.out.println("B");
+          }
+          void n(){
+              System.out.println("n");
+          }
+      }.n();
+
 
     }
 }
