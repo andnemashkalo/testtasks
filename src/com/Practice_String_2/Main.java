@@ -20,12 +20,15 @@ public class Main {
         Predicate<String> b= s->s.equals("q")||s.equals("r")||s.equals("t");
         System.out.println(b.test("q"));
 
-        System.out.println("qwrwetrhtrj".chars()
+        System.out.println("qwrwentaretrhtrj".chars()
         .distinct()
         .mapToObj(s->(char)s+"")
         .filter(b)
         .map(a)
-        .collect(Collectors.joining("-")));
+        .collect(Collectors.joining("_")));
 
+        System.out.println("cdsbsbebtjyetje".chars().filter(s->(char)s=='e').count()); //подсчет количества буква "e" в слове
+        System.out.println("cdsbsbebtjyetje".chars().filter(s->(char)s=='e'||(char)s=='b').count());//подсчет количества буква "e" или "b" в слове
 
+        System.out.println("cdsbsbebtjye45tje".chars().filter(s->(char)s!='4'&&(char)s!='5').mapToObj(s->(char)s+"").collect(Collectors.joining()));// вывести выражение исключив символы 45
     }}

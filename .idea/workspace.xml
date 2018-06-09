@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd0666bc-d828-4a4f-bd8d-b5ce6ff6c2f3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_1/RegionMatchesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_2/setCharAtDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_2/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_2/DemoNumberFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_2/FunctionUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_2/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Practice_String_2/Main_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Practice_String_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Practice_String_2/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="483">
+              <caret line="29" column="86" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,11 +32,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setCharAtDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/setCharAtDemo.java">
+      <file leaf-file-name="Main_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Main_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+            <state relative-caret-position="459">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Main_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoNumberFormat.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/DemoNumberFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/FunctionUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -43,8 +91,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,13 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Practice_2/task_0.java" />
-        <option value="$PROJECT_DIR$/src/com/Practice_5/Test_8.java" />
-        <option value="$PROJECT_DIR$/src/com/Practice_5/Test_9.java" />
-        <option value="$PROJECT_DIR$/src/com/Practice_4/Test_9.java" />
-        <option value="$PROJECT_DIR$/src/com/Practice_4/Test_10.java" />
-        <option value="$PROJECT_DIR$/src/com/Practice_4/Test_11.java" />
-        <option value="$PROJECT_DIR$/src/Homework/Task_1/case_1_6.java" />
         <option value="$PROJECT_DIR$/src/Homework/Task_2/case_2_1.java" />
         <option value="$PROJECT_DIR$/src/com/Practice_5_OOP/Box2.java" />
         <option value="$PROJECT_DIR$/src/com/Practice_5_OOP/Girl.java" />
@@ -106,6 +147,13 @@
         <option value="$PROJECT_DIR$/src/com/Practice_String_1/RegionMatchesExample.java" />
         <option value="$PROJECT_DIR$/src/com/Practice_String_2/setCharAtDemo.java" />
         <option value="$PROJECT_DIR$/src/com/Practice_String_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice_String_2/Function.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice_String_2/FunctionUse.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice_String_2/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice_String_2/Patterm.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice_String_2/Main_2.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice_String_2/Main_3.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice_String_2/DemoNumberFormat.java" />
       </list>
     </option>
   </component>
@@ -124,6 +172,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,9 +257,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,9 +281,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Practice_String_2.Main" />
+  <component name="RunManager" selected="Application.DemoNumberFormat">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Practice_String_2.Consumer" />
       <module name="Kronos" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -245,52 +293,52 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RegionMatchesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Practice_String_1.RegionMatchesExample" />
+    <configuration name="DemoNumberFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Practice_String_2.DemoNumberFormat" />
       <module name="Kronos" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Practice_String_1.*" />
+          <option name="PATTERN" value="com.Practice_String_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FunctionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Practice_String_2.FunctionUse" />
+      <module name="Kronos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Practice_String_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Practice_String_2.Main_2" />
+      <module name="Kronos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Practice_String_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Practice_String_2.Main_3" />
+      <module name="Kronos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Practice_String_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="equalsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Practice_String_1.equalsDemo" />
-      <module name="Kronos" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Practice_String_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="getCharsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Practice_String_1.getCharsDemo" />
-      <module name="Kronos" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Practice_String_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="setCharAtDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Practice_String_2.setCharAtDemo" />
-      <module name="Kronos" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Practice_String_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -331,19 +379,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.getCharsDemo" />
-      <item itemvalue="Application.equalsDemo" />
-      <item itemvalue="Application.RegionMatchesExample" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.setCharAtDemo" />
+      <item itemvalue="Application.FunctionUse" />
+      <item itemvalue="Application.Main_2" />
+      <item itemvalue="Application.Consumer" />
+      <item itemvalue="Application.Main_3" />
+      <item itemvalue="Application.DemoNumberFormat" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.setCharAtDemo" />
-        <item itemvalue="Application.RegionMatchesExample" />
-        <item itemvalue="Application.equalsDemo" />
-        <item itemvalue="Application.getCharsDemo" />
+        <item itemvalue="Application.DemoNumberFormat" />
+        <item itemvalue="Application.Main_3" />
+        <item itemvalue="Application.Main_2" />
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.FunctionUse" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527937689734</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test tasks">
+      <created>1528535360592</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1528535360592</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -414,20 +469,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -440,7 +497,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -452,7 +508,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="22" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -470,19 +526,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Practice_4/Test_9.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/Practice_4/Test_10.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/Practice_4/Test_11.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/it1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/Practice_3/Test_4.java" />
-    <entry file="file://$PROJECT_DIR$/src/Homework/Task_2/case_2_1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Practice_5_OOP/Girl.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Practice_5_OOP/Box2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -772,10 +815,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/FunctionUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="483">
+          <caret line="29" column="86" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Patterm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Main_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/Main_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice_String_2/DemoNumberFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
