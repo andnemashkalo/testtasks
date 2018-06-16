@@ -12,7 +12,7 @@ public class Stats<T extends Number> {
             sum +=nums[i].doubleValue();
         return sum/nums.length;
     }
-    boolean sameAvg(Stats<?>ob){
+    boolean sameAvg(Stats<?>ob){// для приема любого типа значений
         if(average()==ob.average())
             return true;
 
