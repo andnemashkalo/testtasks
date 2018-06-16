@@ -10,6 +10,6 @@ public class GenDemo {
         Gen<String> strOb=new Gen<String>("Generics Test");
         strOb.showType();
         String str=strOb.getOb();
-        System.out.println("value: "+str);
+        System.out.println("value is: "+str);
     }
 }
