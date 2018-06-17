@@ -3,7 +3,7 @@ package com.Practice_Generics;
 public class GenIFDemo {
     public static void main(String[] args) {
         Integer inums[]={3,6,2,8,6};
-        Character chs[]={'b','r','p','w'};
+        Character chs[]={'r','a','w','p'};
         MyClass<Integer> iob=new MyClass<Integer>(inums);
         MyClass<Character> cob=new MyClass<Character>(chs);
 
