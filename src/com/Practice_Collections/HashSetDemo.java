@@ -28,5 +28,7 @@ public class HashSetDemo {
         hd.add(new Girl("Anja", 20));
         hd.add(new Girl("Kate", 17));
 
+        System.out.println(hd);
+
     }
 }
